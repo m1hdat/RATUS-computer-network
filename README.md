@@ -13,18 +13,6 @@
 
 ---
 
-## 👥 Thành viên
-
-| Họ và tên | MSSV |
-|---|---|
-| Phạm Minh Đạt | 24120174 |
-| Nguyễn Phước Khang | 24120189 |
-| Huỳnh Bảo Khang | 24120507 |
-
-**Giảng viên hướng dẫn:** Th.S Đỗ Hoàng Cường
-
----
-
 ## ⚙️ Chức năng chính
 
 | Module | Chức năng |
